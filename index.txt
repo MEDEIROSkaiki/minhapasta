@@ -1,3 +1,0 @@
-<h1>olá sou a primeir versão do arquivo</h1>
-
-<h2>olá eu estou sendo inserido na sugunda versão, havera um commit por minha causa</h2>
